@@ -1,0 +1,4 @@
+build/
+public/index.html
+logs/*
+node_modules/
